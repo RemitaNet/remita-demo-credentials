@@ -17,6 +17,17 @@ apiToken = "SGlQekNzMEdMbjhlRUZsUzJCWk5saDB6SU14Zk15djR4WmkxaUpDTll6bGIxRCs4UkVv
 	
 ```
 
+* Direct Debit/Standing Order 
+```java
+
+merchantId ="27768931"
+apiKey ="Q1dHREVNTzEyMzR8Q1dHREVNTw=="
+apiToken ="SGlQekNzMEdMbjhlRUZsUzJCWk5saDB6SU14Zk15djR4WmkxaUpDTll6bGIxRCs4UkVvaGhnPT0="
+serviceTypeId ="35126630"
+	
+```
+
+
 ### Useful links
 * Join our [Slack](http://bit.ly/RemitaDevSlack) Developer/Support channel
     
