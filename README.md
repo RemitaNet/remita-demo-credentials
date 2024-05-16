@@ -1,6 +1,6 @@
 # Remita Demo Services Credentials
 
-* Remita Interbank Transfer Services v3 (RITS) & Biller Aggregation Services v3 (Biller service) 
+* Remita Interbank Transfer Services (RITS) v3  & Biller Aggregation Services (Biller service) v3  
 ```java
 
  "username": "B2CS9PX9H7Q80HOQ",
@@ -8,7 +8,7 @@
 	
 ```
 
-* Remita Interbank Transfer Services v2 (RITS) 
+* Remita Interbank Transfer Services (RITS) v2
 ```java
 
 merchantId = "DEMOMDA1234";
