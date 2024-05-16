@@ -1,7 +1,6 @@
 # Remita Demo Services Credentials
 
-## Remita Interbank Transfer Services (RITS) 
-## Biller Aggregation Services (Biller service) 
+* Remita Interbank Transfer Services (RITS) & Biller Aggregation Services (Biller service) 
 
 ```java
 
