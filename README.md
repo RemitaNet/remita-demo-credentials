@@ -3,8 +3,8 @@
 * Remita Interbank Transfer Services (RITS) v3  & Biller Aggregation Services (Biller service) v3  
 ```java
 
- "username": "B2CS9PX9H7Q80HOQ",
- "password": "Q8N86GPP3JX64DE7WS2ZJFWDKTE14U4U"
+ "username": "NO55JXXMVGFKAADF",
+ "password": "5QX62KY4KHLG3FD4V6GKE6MPKH8C8EAS"
 	
 ```
 
