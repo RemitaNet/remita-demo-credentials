@@ -1,5 +1,13 @@
 # Remita Demo Services Credentials
 
+* TEST CARDS
+```json
+    CARD: 5178 6810 0000 0002,  
+    Expire Date : 05/30,  
+    CCV: 000, 
+    OTP: 123456
+```
+
 * Remita Interbank Transfer Services (RITS) v3  & Biller Aggregation Services (Biller service) v3  
 ```java
 
