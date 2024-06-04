@@ -19,10 +19,11 @@
 * Remita Interbank Transfer Services (RITS) v2
 ```java
 
-merchantId = "DEMOMDA1234";
-apiKey = "REVNT01EQTEyMzR8REVNT01EQQ==";
-apiToken = "bmR1ZFFFWEx5R2c2NmhnMEk5a25WenJaZWZwbHFFYldKOGY0bHlGZnBZQ1N5WEpXU2Y1dGt3PT0=";
-	
+merchantId = "DEMOMDA1234"
+apiKey = "REVNT01EQTEyMzR8REVNT01EQQ=="
+apiToken = "bmR1ZFFFWEx5R2c2NmhnMEk5a25WenJaZWZwbHFFYldKOGY0bHlGZnBZQ1N5WEpXU2Y1dGt3PT0="
+key = "nbzjfdiehurgsxct"
+iv = "sngtmqpfurxdbkwj"	
 ```
 
 * Data referencing/Inflight (Loan service) 
