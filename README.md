@@ -1,4 +1,4 @@
-# Remita Demo Services Credentials
+# Remita Services Demo Credentials
 
 * TEST CARDS
 ```json
